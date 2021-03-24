@@ -6,7 +6,7 @@
 - :rocket: Final year computer science student with prior Freelance dev and sysadmin experience. Clients including political parties, media companies, musicians, supply chain vendors, property management companies and more.
 
 <h3 align="left">Hire me:</h3>
-<p align="left">
+
 [Check out my LinkedIn](https://www.linkedin.com/in/edwardcharles)
 [Ping me](mailto:closebracket@pm.me)
-</p>
+
