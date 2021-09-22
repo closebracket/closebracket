@@ -7,7 +7,8 @@
 - :rocket: Proudly associated with [Freeside](https://www.github.com/FreesideHull), the student run Linux cluster at the [University of Hull](https://www.hull.ac.uk). Check out the [Student Resources List](https://github.com/FreesideHull/StudentResources) or [Watch this recording of a livestream](https://www.youtube.com/watch?v=KxnhM9kXAGU), both involving contributions from me.
 - :rocket: Freelance dev and sysadmin experience. Clients including political parties, media companies, musicians, supply chain vendors, property management companies and more.
 
-<div><script src="https://tryhackme.com/badge/662733"></script></div>
+
+
 ### Hire me:
 
 :rocket: Available for freelance projects. Free advice available for charities / non-profits.
